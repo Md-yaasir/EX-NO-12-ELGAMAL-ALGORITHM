@@ -76,7 +76,21 @@ int main()
 ```
 
 ## Output:
+```c
+Output
 
+Enter a large prime number (p): 827
+Enter a generator (g): 7
+Enter Alice's private key: 3
+Alice's public key: 343
+Enter the message to encrypt (as a number): 18
+Enter a random number k: 3
+
+Encrypted message (c1, c2): (343, 75)
+Decrypted message: 18
+
+=== Code Execution Successful ===
+```
 
 ## Result:
 The program is executed successfully.
