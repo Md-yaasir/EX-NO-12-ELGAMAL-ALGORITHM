@@ -76,21 +76,7 @@ int main()
 ```
 
 ## Output:
-```c
-Output
-
-Enter a large prime number (p): 827
-Enter a generator (g): 7
-Enter Alice's private key: 3
-Alice's public key: 343
-Enter the message to encrypt (as a number): 18
-Enter a random number k: 3
-
-Encrypted message (c1, c2): (343, 75)
-Decrypted message: 18
-
-=== Code Execution Successful ===
-```
+![image alt](https://github.com/Md-yaasir/EX-NO-12-ELGAMAL-ALGORITHM/blob/347a0eb0f2a73511bd95fa7b156e0be3e4266bac/Screenshot%202026-03-16%20142422.png)
 
 ## Result:
 The program is executed successfully.
